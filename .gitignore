@@ -34,3 +34,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/QFXToolKit/Assets/AmplifyShaderEditor
+/QFXToolKit/Assets/PostProcessing
+/QFXToolKit/.idea
+/QFXToolKit/Assets/Shared Assets
+/QFXToolKit/Assets/Standard Assets
+/QFXToolKit/Assets/Plugins
